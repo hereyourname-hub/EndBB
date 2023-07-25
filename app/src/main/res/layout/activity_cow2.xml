@@ -8,19 +8,13 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-
-
-        >
+        android:layout_height="match_parent">
 
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-
-
-            >
+            android:orientation="vertical">
 
 
             <pl.droidsonroids.gif.GifImageView
@@ -85,7 +79,8 @@
                 android:layout_height="match_parent"
                 app:cardCornerRadius="20dp"
                 android:background="#ECEDE8"
-                android:layout_marginBottom="10dp">
+                android:layout_marginBottom="10dp"
+                app:cardBackgroundColor="@color/white">
 
 
                 <LinearLayout

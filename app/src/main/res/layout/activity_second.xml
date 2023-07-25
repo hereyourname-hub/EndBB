@@ -93,6 +93,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
                                 />
@@ -235,6 +236,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
+                                android:textColor="@color/grey"
                                 android:textStyle="bold"
 
 
@@ -378,6 +380,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
                                 />
@@ -520,6 +523,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 
@@ -668,7 +672,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
-
+                                android:textColor="@color/grey"
 
 
                                 />
@@ -817,6 +821,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 
@@ -975,6 +980,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 
@@ -1129,6 +1135,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 
@@ -1277,6 +1284,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 
@@ -1430,6 +1438,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="Repeat 2 Times"
                                 android:textStyle="bold"
+                                android:textColor="@color/grey"
 
 
 

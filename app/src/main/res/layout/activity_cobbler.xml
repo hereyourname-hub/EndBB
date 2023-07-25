@@ -85,7 +85,8 @@
                 android:layout_height="match_parent"
                 app:cardCornerRadius="20dp"
                 android:background="#ECEDE8"
-                android:layout_marginBottom="10dp">
+                android:layout_marginBottom="10dp"
+                app:cardBackgroundColor="@color/white">
 
 
                 <LinearLayout

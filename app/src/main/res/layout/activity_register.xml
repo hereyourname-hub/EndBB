@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".RegisterActivity"
-    android:padding="20dp">
+    android:padding="20dp"
+    android:background="@color/white">
 
     <TextView
         android:id="@+id/tv_register_title"
@@ -14,6 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="@string/register_title"
+        android:textColor="@color/grey"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -46,7 +48,8 @@
             android:id="@+id/et_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            style="@style/TextInputEditText"/>
+            style="@style/TextInputEditText"
+            android:textColor="@color/black"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -66,7 +69,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
-            style="@style/TextInputEditText"/>
+            style="@style/TextInputEditText"
+            android:textColor="@color/black"/>
     </com.google.android.material.textfield.TextInputLayout>
 
 
@@ -87,7 +91,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
-            style="@style/TextInputEditText"/>
+            style="@style/TextInputEditText"
+            android:textColor="@color/black"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <androidx.appcompat.widget.AppCompatButton

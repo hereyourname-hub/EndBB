@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:text="@string/consumed"
         android:textSize="20sp"
-        android:textColor="@color/black"
+        android:textColor="@color/grey"
         android:layout_marginBottom="10dp"/>
 
     <LinearLayout

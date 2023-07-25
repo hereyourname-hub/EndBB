@@ -108,6 +108,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/montserratregular"
                             android:text=""
+                            android:textColor="@color/grey"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             app:layout_constraintBottom_toTopOf="@+id/btn_logOut"
@@ -122,6 +123,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/roboto_bold"
                             android:text="@string/kcal_prof"
+                            android:textColor="@color/grey"
                             android:textSize="12sp" />
                     </LinearLayout>
                 </LinearLayout>
@@ -185,6 +187,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/montserratregular"
                             android:text=""
+                            android:textColor="@color/grey"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             app:layout_constraintBottom_toTopOf="@+id/btn_logOut"
@@ -199,6 +202,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/roboto_bold"
                             android:text="@string/ml_prof"
+                            android:textColor="@color/grey"
                             android:textSize="12sp" />
                     </LinearLayout>
 
